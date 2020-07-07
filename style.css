@@ -1,0 +1,33 @@
+.buy{
+    background-image: linear-gradient(90deg,orange,skyblue);
+    color:antiquewhite;
+    border:none;
+    border-radius: 8px;
+    padding: 6px 8px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+.red-bg{
+    background-color:palevioletred;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 50px 70px;
+
+}
+.cat{
+    
+    border-radius: 20px;
+}
+.cat1{
+
+    border: none;
+    border-radius: 10px 20px;
+    box-shadow: 10px 20px 20px grey;
+}
+#cat2{
+    margin-top: 20px;
+    margin-bottom:50px;
+}
